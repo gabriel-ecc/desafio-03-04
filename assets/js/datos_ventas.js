@@ -1,5 +1,5 @@
 
-const propiedades_venta = [
+const propiedades_ventas = [
     {
       nombre: 'Casa en la playa',
       src: './assets/img/casa4.jpg',
@@ -12,7 +12,7 @@ const propiedades_venta = [
     },
     {
       nombre: 'Cabaña en la montaña',
-      src: './assets/img/cabaña1.jpg',
+      src: './assets/img/cabana1.jpg',
       descripcion: 'Cabaña en la montaña con chimenea y entorno natural en Farellones.',
       ubicacion: 'Camino a Farellones 2627, Farellones',
       habitaciones: 2,
